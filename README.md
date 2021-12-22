@@ -2,21 +2,15 @@
 This is the implementation of a Vector Space model using TF-IDF representation for an information retrieval system.
 
 ## Required packages
-python==3.7
+python==3.7 
 
-regex==2021.11.10
-
-requests==2.26.0
-
-requests-file==1.5.1
-
-nltk==3.6.5
-
-numpy==1.19.5
-
-beautifulsoup4==4.10.0
-
-certifi==2020.6.20
+regex==2021.11.10 <br>
+requests==2.26.0 <br>
+requests-file==1.5.1 <br>
+nltk==3.6.5 <br>
+numpy==1.19.5 <br>
+beautifulsoup4==4.10.0 <br>
+certifi==2020.6.20 <br>
 
 
 Please also run the following block to install nltk stopwords list:
