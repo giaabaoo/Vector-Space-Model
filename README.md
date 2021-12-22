@@ -40,5 +40,6 @@ Run the script ```vector_space_model.py``` to train the vector space model
 ```--data_path``` Path to data folder (Default = "./news_data") <br>
 ```--query``` Input query for searching <br>
 
-Sample run
-```python vector_space_model.py --k 5 --query "wonderful plants"```
+Sample run: <br>
+```python vector_space_model.py --k 5 --query "wonderful plants"``` <br>
+The retrieval results will be shown on your console as a dictionary with the filenames as keys and the relevant scores as values in a sorted order following the given top k. 
