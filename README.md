@@ -13,7 +13,7 @@ beautifulsoup4==4.10.0 <br>
 certifi==2020.6.20 <br>
 
 
-Please also run the following block to install nltk stopwords list:
+Please also run the following block to install the nltk stopwords list:
 ```
 import nltk
 nltk.download('stopwords')
