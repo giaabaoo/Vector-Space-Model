@@ -23,7 +23,7 @@ nltk.download('stopwords')
 In this repository, you can find a toy sample with rudimentary text files to play with for simplicity sake. 
 Beside that, you can also run ```crawl_data.py``` to crawl the content from the websites (the links can be changed manually according to your preference) for making the corpus.
 
-## Retrieving search results
+## Searching the textual information
 
 Run the script ```vector_space_model.py``` to train the vector space model.
 
@@ -42,4 +42,5 @@ Run the script ```vector_space_model.py``` to train the vector space model.
 
 Sample run: <br>
 ```python vector_space_model.py --k 5 --query "wonderful plants"``` <br>
+<br>
 The retrieval results will be shown on your console as a dictionary with the filenames as keys and the relevant scores as values in a sorted order following the given top k. 
