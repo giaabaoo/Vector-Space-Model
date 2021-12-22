@@ -25,7 +25,7 @@ Beside that, you can also run ```crawl_data.py``` to crawl the content from the 
 
 ## Retrieving search results
 
-Run the script ```vector_space_model.py``` to train the vector space model
+Run the script ```vector_space_model.py``` to train the vector space model.
 
 
 #### List of implementations
