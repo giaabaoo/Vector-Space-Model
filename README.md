@@ -21,7 +21,7 @@ nltk.download('stopwords')
 
 ## Crawling data
 In this repository, you can find a toy sample with rudimentary text files to play with for simplicity sake. 
-Beside that, you can also run ```crawl_data.py``` to crawl the content from the websites (the links can be changed manually according to your preference) for making our corpus.
+Beside that, you can also run ```crawl_data.py``` to crawl the content from the websites (the links can be changed manually according to your preference) for making the corpus.
 
 ## Retrieving search results
 
