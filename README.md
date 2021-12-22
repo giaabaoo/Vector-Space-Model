@@ -1,5 +1,5 @@
 # Vector-Space-Retrieval-Model
-This is the implementation of a Vector Space model using TF-IDF representation for a information retrieval system.
+This is the implementation of a Vector Space model using TF-IDF representation for an information retrieval system.
 
 ## Required packages
 python==3.7
